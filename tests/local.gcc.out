@@ -1,0 +1,4 @@
+local.c: In function ‘main’:
+local.c:7: warning: incompatible implicit declaration of built-in function ‘printf’
+local.c:7: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+local.c:4: warning: return type of ‘main’ is not ‘int’

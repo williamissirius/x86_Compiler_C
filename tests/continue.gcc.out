@@ -1,0 +1,10 @@
+continue.c: In function ‘main’:
+continue.c:7: warning: incompatible implicit declaration of built-in function ‘printf’
+continue.c:7: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+continue.c:13: warning: incompatible implicit declaration of built-in function ‘printf’
+continue.c:13: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+continue.c:17: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+continue.c:26: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+continue.c:30: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+continue.c:41: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+continue.c:5: warning: return type of ‘main’ is not ‘int’

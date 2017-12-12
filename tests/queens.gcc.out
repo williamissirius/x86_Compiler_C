@@ -1,0 +1,6 @@
+queens.c:4: warning: conflicting types for built-in function ‘abs’
+queens.c: In function ‘bruteforce’:
+queens.c:25: warning: incompatible implicit declaration of built-in function ‘printf’
+queens.c: In function ‘main’:
+queens.c:47: warning: incompatible implicit declaration of built-in function ‘malloc’
+queens.c:46: warning: return type of ‘main’ is not ‘int’

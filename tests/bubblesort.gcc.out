@@ -1,0 +1,6 @@
+bubblesort.c: In function ‘printArray’:
+bubblesort.c:19: warning: incompatible implicit declaration of built-in function ‘printf’
+bubblesort.c:21: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+bubblesort.c: In function ‘main’:
+bubblesort.c:31: warning: incompatible implicit declaration of built-in function ‘malloc’
+bubblesort.c:26: warning: return type of ‘main’ is not ‘int’

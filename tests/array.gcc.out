@@ -1,0 +1,5 @@
+array.c: In function ‘main’:
+array.c:6: warning: incompatible implicit declaration of built-in function ‘malloc’
+array.c:9: warning: incompatible implicit declaration of built-in function ‘printf’
+array.c:9: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+array.c:3: warning: return type of ‘main’ is not ‘int’

@@ -1,0 +1,7 @@
+strlen.c: In function ‘main’:
+strlen.c:27: warning: incompatible implicit declaration of built-in function ‘malloc’
+strlen.c:29: warning: incompatible implicit declaration of built-in function ‘printf’
+strlen.c:30: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+strlen.c:33: warning: incompatible implicit declaration of built-in function ‘strcpy’
+strlen.c:35: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+strlen.c:25: warning: return type of ‘main’ is not ‘int’

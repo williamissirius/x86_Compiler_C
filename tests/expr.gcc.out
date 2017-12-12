@@ -1,0 +1,4 @@
+expr.c: In function ‘main’:
+expr.c:4: warning: incompatible implicit declaration of built-in function ‘printf’
+expr.c:4: warning: unknown conversion type character ‘=’ in format
+expr.c:3: warning: return type of ‘main’ is not ‘int’

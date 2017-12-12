@@ -1,0 +1,4 @@
+char2.c: In function ‘main’:
+char2.c:7: warning: incompatible implicit declaration of built-in function ‘malloc’
+char2.c:12: warning: incompatible implicit declaration of built-in function ‘printf’
+char2.c:5: warning: return type of ‘main’ is not ‘int’

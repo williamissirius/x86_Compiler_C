@@ -1,0 +1,5 @@
+sum.c: In function ‘main’:
+sum.c:14: warning: incompatible implicit declaration of built-in function ‘malloc’
+sum.c:21: warning: incompatible implicit declaration of built-in function ‘printf’
+sum.c:21: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+sum.c:12: warning: return type of ‘main’ is not ‘int’

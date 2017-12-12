@@ -1,0 +1,5 @@
+for.c: In function ‘main’:
+for.c:7: warning: incompatible implicit declaration of built-in function ‘printf’
+for.c:7: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+for.c:10: warning: incompatible implicit declaration of built-in function ‘printf’
+for.c:5: warning: return type of ‘main’ is not ‘int’

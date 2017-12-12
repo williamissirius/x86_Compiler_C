@@ -1,0 +1,5 @@
+dowhile.c: In function ‘main’:
+dowhile.c:9: warning: incompatible implicit declaration of built-in function ‘printf’
+dowhile.c:9: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+dowhile.c:14: warning: incompatible implicit declaration of built-in function ‘printf’
+dowhile.c:5: warning: return type of ‘main’ is not ‘int’

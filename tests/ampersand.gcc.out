@@ -1,0 +1,5 @@
+ampersand.c: In function ‘main’:
+ampersand.c:11: warning: incompatible implicit declaration of built-in function ‘printf’
+ampersand.c:11: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+ampersand.c:13: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+ampersand.c:8: warning: return type of ‘main’ is not ‘int’

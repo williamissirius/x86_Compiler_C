@@ -1,0 +1,5 @@
+while.c: In function ‘main’:
+while.c:9: warning: incompatible implicit declaration of built-in function ‘printf’
+while.c:9: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+while.c:13: warning: incompatible implicit declaration of built-in function ‘printf’
+while.c:5: warning: return type of ‘main’ is not ‘int’

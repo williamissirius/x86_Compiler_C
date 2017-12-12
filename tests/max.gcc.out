@@ -1,0 +1,9 @@
+max.c: In function ‘main’:
+max.c:25: warning: incompatible implicit declaration of built-in function ‘malloc’
+max.c:39: warning: incompatible implicit declaration of built-in function ‘printf’
+max.c:39: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+max.c:39: warning: format ‘%d’ expects type ‘int’, but argument 3 has type ‘long int’
+max.c:42: warning: incompatible implicit declaration of built-in function ‘printf’
+max.c:42: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+max.c:43: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+max.c:22: warning: return type of ‘main’ is not ‘int’

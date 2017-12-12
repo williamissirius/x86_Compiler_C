@@ -1,0 +1,5 @@
+expr2.c: In function ‘main’:
+expr2.c:17: warning: incompatible implicit declaration of built-in function ‘printf’
+expr2.c:17: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+expr2.c:17: warning: format ‘%d’ expects type ‘int’, but argument 3 has type ‘long int’
+expr2.c:13: warning: return type of ‘main’ is not ‘int’

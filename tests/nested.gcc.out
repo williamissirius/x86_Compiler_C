@@ -1,0 +1,4 @@
+nested.c: In function ‘main’:
+nested.c:13: warning: incompatible implicit declaration of built-in function ‘printf’
+nested.c:13: warning: format ‘%d’ expects type ‘int’, but argument 2 has type ‘long int’
+nested.c:12: warning: return type of ‘main’ is not ‘int’

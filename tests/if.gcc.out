@@ -1,0 +1,9 @@
+if.c: In function ‘main’:
+if.c:5: warning: incompatible implicit declaration of built-in function ‘printf’
+if.c:9: warning: incompatible implicit declaration of built-in function ‘printf’
+if.c:13: warning: incompatible implicit declaration of built-in function ‘printf’
+if.c:16: warning: incompatible implicit declaration of built-in function ‘printf’
+if.c:20: warning: incompatible implicit declaration of built-in function ‘printf’
+if.c:23: warning: incompatible implicit declaration of built-in function ‘printf’
+if.c:26: warning: incompatible implicit declaration of built-in function ‘printf’
+if.c:3: warning: return type of ‘main’ is not ‘int’

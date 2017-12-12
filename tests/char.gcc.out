@@ -1,0 +1,3 @@
+char.c: In function ‘main’:
+char.c:9: warning: incompatible implicit declaration of built-in function ‘printf’
+char.c:5: warning: return type of ‘main’ is not ‘int’
